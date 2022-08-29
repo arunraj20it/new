@@ -1,0 +1,48 @@
+.button {
+    background-color: lightslategray;
+    border: none;
+    color: white;
+    padding: 20px 34px;
+    text-align:center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .button1 {
+    background-color: lightcoral;
+    border: none;
+    color: white;
+    padding: 20px 34px;
+    text-align:center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .button2 {
+    background-color:darkorange;
+    border: none;
+    color: white;
+    padding: 20px 34px;
+    text-align:center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .button3 {
+    background-color:darkcyan;
+    border: none;
+    color: white;
+    padding: 20px 34px;
+    text-align:center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
